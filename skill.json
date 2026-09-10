@@ -1,0 +1,15 @@
+{
+  "name": "genpark-vorticity-streamfunction-navier-stokes-skill",
+  "version": "1.0.0",
+  "description": "2D incompressible Navier-Stokes vorticity-streamfunction solver using discrete Poisson relaxation and kinematic vortex convection.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "navier-stokes",
+    "vorticity-streamfunction",
+    "cfd-solver",
+    "poisson-solver"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
